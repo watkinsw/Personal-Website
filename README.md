@@ -1,2 +1,1 @@
-# watkinsw.github.io
-My Personal Site
+This is my personal site.
